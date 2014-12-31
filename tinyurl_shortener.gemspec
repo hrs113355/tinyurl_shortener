@@ -10,8 +10,8 @@ Gem::Specification.new do |spec|
   spec.email         = ["hrs113355@gmail.com"]
   spec.summary       = %q{URL shortener with tinyurl.com service.}
   spec.description   = %q{URL shortener with tinyurl.com service.}
-  spec.homepage      = ""
-  spec.license       = ""
+  spec.homepage      = "https://github.com/hrs113355/tinyurl_shortener"
+  spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }
