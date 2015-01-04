@@ -1,4 +1,5 @@
 require 'rubygems'
+require 'restclient'
 require 'bundler/setup'
 Bundler.require :default
 
