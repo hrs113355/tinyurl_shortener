@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = TinyurlShortener::VERSION
   spec.authors       = ["hrs"]
   spec.email         = ["hrs113355@gmail.com"]
-  spec.summary       = %q{URL shortener with tinyurl.com service.}
-  spec.description   = %q{URL shortener with tinyurl.com service.}
+  spec.summary       = %q{tinyurl shortener and expander.}
+  spec.description   = %q{URL shortener and expander with tinyurl.com service. }
   spec.homepage      = "https://github.com/hrs113355/tinyurl_shortener"
   spec.license       = "MIT"
 
@@ -20,7 +20,7 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.7"
   spec.add_development_dependency "rake", "~> 10.0"
-  spec.add_development_dependency "rspec", "~> 2.11.0"
+  spec.add_development_dependency "rspec", "~> 2.11"
 
-  spec.add_dependency "rest-client"
+  spec.add_dependency "rest-client", "~> 2.0.0.rc1"
 end
