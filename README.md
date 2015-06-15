@@ -1,6 +1,6 @@
 # TinyurlShortener
 
-TODO: Write a gem description
+URL shortener with tinyurl.com service.
 
 ## Installation
 
@@ -20,12 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+TinyurlShortener.shorten("https://github.com/hrs113355/tinyurl_shortener")
+=> "http://tinyurl.com/oybhnsm"
 
-## Contributing
+TinyurlShortener.expand("http://tinyurl.com/oybhnsm")
+=> "https://github.com/hrs113355/tinyurl_shortener"
+```
 
-1. Fork it ( https://github.com/[my-github-username]/tinyurl_shortener/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
