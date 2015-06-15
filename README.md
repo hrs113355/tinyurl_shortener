@@ -28,3 +28,6 @@ TinyurlShortener.expand("http://tinyurl.com/oybhnsm")
 => "https://github.com/hrs113355/tinyurl_shortener"
 ```
 
+## Changes
+
+* 1.0.1 - fix issue of detecting url redirection when expanding tinyurl
