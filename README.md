@@ -31,3 +31,4 @@ TinyurlShortener.expand("http://tinyurl.com/oybhnsm")
 ## Changes
 
 * 1.0.1 - fix issue of detecting url redirection when expanding tinyurl
+* 1.0.2 - relax rest-client dependency
