@@ -1,4 +1,6 @@
-# TinyurlShortener
+# TinyurlShortener  
+
+[![Gem Version](https://badge.fury.io/rb/tinyurl_shortener.svg)](http://badge.fury.io/rb/tinyurl_shortener)  
 
 URL shortener with tinyurl.com service.
 
