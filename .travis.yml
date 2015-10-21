@@ -9,3 +9,6 @@ rvm:
 cache: bundler
 
 script: "bundle exec rake test"
+
+notifications:
+  email: false
