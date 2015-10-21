@@ -1,6 +1,7 @@
 # TinyurlShortener  
-
-[![Gem Version](https://badge.fury.io/rb/tinyurl_shortener.svg)](http://badge.fury.io/rb/tinyurl_shortener)  
+  
+[![Gem Version](https://badge.fury.io/rb/tinyurl_shortener.svg)](http://badge.fury.io/rb/tinyurl_shortener)
+[![Build Status](https://travis-ci.org/hrs113355/tinyurl_shortener.svg?branch=master)](https://travis-ci.org/hrs113355/tinyurl_shortener)
 
 URL shortener with tinyurl.com service.
 
