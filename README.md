@@ -35,3 +35,4 @@ TinyurlShortener.expand("http://tinyurl.com/oybhnsm")
 
 * 1.0.1 - fix issue of detecting url redirection when expanding tinyurl
 * 1.0.2 - relax rest-client dependency
+* 1.0.3 - update rest-client dependency. drop support for ruby version < 2.0.0.
