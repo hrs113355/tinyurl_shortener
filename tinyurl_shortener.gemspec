@@ -21,5 +21,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rake', '~> 12.3', '>= 12.3.3'
   spec.add_development_dependency 'rspec', '~> 3.8', '>= 3.8.0'
 
-  spec.add_dependency "rest-client", ">= 1.7", "< 2"
+  spec.add_dependency 'rest-client', '~> 2.1', '>= 2.1.0'
 end
